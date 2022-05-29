@@ -54,3 +54,13 @@ nav a {
     font-size: 0.8em;
     color: #777;
 }
+/* FRONT PAGE ARTICLES */
+main h2 {
+    font-family: 'Roboto Slab', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0;
+}
+main h5 {
+    font-family: 'Abril Fatface', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #dd3232;
+    margin-top: 0.5em;
+}
