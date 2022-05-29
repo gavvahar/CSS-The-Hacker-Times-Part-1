@@ -64,3 +64,6 @@ main h5 {
     color: #dd3232;
     margin-top: 0.5em;
 }
+img {
+    width: 100%;
+}
