@@ -32,7 +32,6 @@ header h1 {
     font-size: 2.5em;
     text-align: center;
 }
-
 /* FRONT PAGE ARTICLES */
 main h2 {
     font-family: 'Roboto Slab', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -45,4 +44,19 @@ main h5 {
 }
 img {
     width: 100%;
+}
+/* SMALLER ARTICLES */
+.more-articles {
+    border-top: 1px solid #eee;
+    margin-top: 1.5em;
+    text-align: center;
+}
+.more-articles section {
+    display: inline-block;
+    width: 44%;
+    margin: 0 1em;
+}
+.more-articles h4 {
+    font-family: 'Roboto Slab', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
 }
