@@ -10,4 +10,15 @@ a {
 p {
     font-size: 0.9em;
     text-align: justify;
+    padding: 10px;
+}
+/* CONTAINER */
+.newspaper-container {
+    width: 700px;
+    margin: 3em auto;
+    padding: 1em;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 1px 1px 5px #ddd;
 }
