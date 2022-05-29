@@ -4,3 +4,10 @@ body {
     font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
     font-weight: 200;
 }
+a {
+    text-decoration: none;
+}
+p {
+    font-size: 0.9em;
+    text-align: justify;
+}
