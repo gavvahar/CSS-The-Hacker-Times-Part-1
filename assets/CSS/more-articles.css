@@ -1,0 +1,20 @@
+/* SMALLER ARTICLES */
+.more-articles, .even-more-articles {
+    border-top: 1px solid #eee;
+    margin-top: 1.5em;
+    text-align: center;
+}
+.more-articles section, .even-more-articles section {
+    display: inline-block;
+    margin: 0 1em;
+}
+.more-articles h4, .even-more-articles h4 {
+    font-family: 'Roboto Slab', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+}
+.more-articles section {
+    width: 44%;
+}
+.even-more-articles section {
+    width: 28%;
+}
